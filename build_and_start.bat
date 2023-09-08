@@ -1,1 +1,1 @@
-dotnet run --urls http://localhost:18321
+dotnet run -p:Configuration=Debug
